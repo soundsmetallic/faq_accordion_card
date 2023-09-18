@@ -29,10 +29,16 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/soundsmetallic/faq_accordion_card)
+- [Live Site](https://soundsmetallic.github.io/faq_accordion_card/)
 
 ## My process
+
+- Set up my work environment.
+- Format the html file.
+- Add the fonts.
+- Style the document to match the design.
+- Add media queries to make the page responsive.
 
 ### Built with
 
